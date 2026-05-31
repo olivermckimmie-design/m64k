@@ -1,24 +1,51 @@
-This is free and unencumbered software released into the public domain.
+THE COPYWEST UNIVERSAL LICENSE (V1.0)
+Some Rights Reserved, All Ownership Retained by Oliver James Mckimmie, 2026.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+This is a Copywest license. It uses the creator's underlying ownership to grant 
+specific, conditional open freedoms to the general public while maintaining a 
+strict legal firewall around the core creation.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. RETAINED OWNERSHIP:
+All copyright and intellectual property rights belong strictly to the original 
+creator, Oliver James Mckimmie. The creator retains 100% ownership of the original 
+design elements, code lines, internal architecture, unique inventions, and all future 
+core modifications, contributions, and forks. This ownership does not extend to 
+unrelated, independent components created around the product.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2. THE "ALWAYS OPEN" PUBLIC RULE:
+The general public is granted the right to copy, view, utilize, and modify this 
+Base Product. Any changes, fixes, or optimizations made directly to the internal 
+elements of this Base Product MUST be made publicly available and remain 100% 
+visible and free to everyone under this exact Copywest license.
 
-For more information, please refer to <https://unlicense.org>
+3. THE "EXTERNAL PRODUCT" EXCEPTION (WEAK RECIPROCITY):
+Subject to the strict commercial bans in Section 4, if a non-commercial creator 
+incorporates this Base Product cleanly as an independent component inside a larger 
+External Product without modifying the internal elements of the Base Product itself, 
+the Copywest openness rules do NOT apply to the surrounding components. All rights 
+remain strictly reserved to that creator for their custom External Product elements.
+
+4. COMMERCIAL BANS, CONVERSION, AND REPLICATION LOOPHOLES:
+Hobbyists and individuals are free to utilize this Product under the open terms 
+above. However, commercial businesses, corporations, and for-profit entities are 
+STRICTLY PROHIBITED from using this Product, any code inside it, or any part of it. 
+
+Businesses are explicitly banned from:
+- Converting, translating, compiling, or processing any part of this code into a 
+  hardware design, GPU configuration, integrated circuit layout, or FPGA bitstream.
+- Copying the product's design structure and simply changing what it does or altering 
+  its target function to bypass this license.
+- Manufacturing, designing, or distributing any individual component that is based 
+  on, or derived from, the unique inventions created by this Product.
+
+If a business wants rights to use, modify, replicate, or build components from any 
+part of this design for any purpose, they MUST obtain explicit written permission 
+and a commercial agreement from Oliver James Mckimmie.
+
+5. AUTOMATIC TERMINATION:
+Any attempt to hide modifications made to the Base Product itself, or any 
+unauthorized commercial use, conversion, or functional replication, results in the 
+immediate and automatic termination of your permission to use this creation under 
+copyright 
+
+Any unique aspects of this product all the product itself if you seen any other product our property of Oliver James Mckimmie unless said by Oliver James Mckimmie you must display this licence when using this code at any point perpetually down the chain of use indefinatly by using this product you understand that all rights belong to Oliver james Mckimmie you can ask to have some of the rights 
